@@ -29,7 +29,7 @@ Follow the on-screen instructions to enter:
 Target IP address
 Port range to scan
 
-Scanning target: 192.168.1.1
+Scanning target: 1.1.1.1.1
 
 Port 22  - OPEN
 Port 80  - OPEN
