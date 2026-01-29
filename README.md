@@ -43,3 +43,13 @@ This tool is intended only for authorized networks and educational purposes.
 Scanning networks or systems without permission may be illegal in your country.
 
 The developer assumes no responsibility for misuse.
+
+Installation and Operation ====================
+
+Install Python: `sudo apt update` `sudo apt install python3 -y` 
+
+Download the program: Copy the "miniportscanner.py" file from GitHub and the collected registry entry. 
+
+Enter the folder containing the file: For example, for the Downloads folder: 
+
+cd Downloads Run the program (using the simplest method): `python3 miniportscanner.py`
